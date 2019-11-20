@@ -31,7 +31,7 @@
     "@types/angular": "^1.6.39",
     "@types/jquery": "^3.2.16",
     "@uirouter/angular-hybrid": "latest",
-    "angular": "^1.6.6",
+    "angular": "^1.7.9",
     "rxjs": "~6.4.0",
     "ts-loader": "3.2.0",
     "tslib": "^1.9.0",
